@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0",
+    "image": "product-1.png",
+    "logo": "product-logo-1.svg",
+    "title": "Профессиональный инструмент для работы с наружной рекламой",
+    "description": "Анализируй и управляй текущим размещением online",
+    "link": "#",
+    "linkTitle": "OOHDesk"
+  },
+  {
+    "id": "1",
+    "image": "product-1.png",
+    "logo": "product-logo-2.svg",
+    "title": "Доступное размещение на цифровых конструкциях",
+    "description": "Сервис Oohdesk DSP позволяет быстро создавать рекламу на уровне продвинутого пользователя.",
+    "link": "#",
+    "linkTitle": "DSPDesk"
+  },
+  {
+    "id": "2",
+    "image": "product-1.png",
+    "logo": "product-logo-3.svg",
+    "title": "Профессиональный инструмент для работы с наружной рекламой",
+    "description": "Анализируй и управляй текущим размещением online",
+    "link": "#",
+    "linkTitle": "TAAS"
+  },
+  {
+    "id": "3",
+    "image": "product-1.png",
+    "logo": "product-logo-3.svg",
+    "title": "Аналитический инструмент размещения рекламы в телеграм-каналах",
+    "description": "Анализируй и управляй текущим размещением online",
+    "link": "#",
+    "linkTitle": "Reseller Telegram"
+  }
+]
